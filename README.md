@@ -1,20 +1,31 @@
 
 # Blush Petals Site
+Blush Petals is a South African brand dedicated to providing high-quality, affordable, and comfortable sanitary pads designed with care, dignity, and empowerment in mind.
+**
+About Our Pads
+At Blush Petals, we understand that menstrual health is essential to well-being and confidence. Our products are made with premium materials to ensure comfort, protection, and freshness throughout your day and night.
 
-This is a simple React site for Blush Petals, a sanitary pad brand.
+Our Product Range
+Classic Day Pads
+Designed for daytime use with breathable, soft layers and high absorbency to handle light to medium flow comfortably. These pads provide secure protection without bulkiness, helping you stay active and confident.
 
-## Setup
+Overnight Pads
+Extra-long and ultra-absorbent to offer maximum leak protection while you sleep. These pads are designed to provide peace of mind on heavier flow days and nights, with soft materials for skin comfort.
 
-1. Clone the repo or unzip the folder.
-2. Run `npm install` to install dependencies.
-3. Run `npm start` to start the development server.
-4. Open http://localhost:3000 in your browser to view the site.
+Why Choose Blush Petals?
+Made with skin-friendly, breathable materials to reduce irritation
+High absorbency with leak protection for all flow types
+Thoughtfully designed for comfort and confidence
+Proudly South African, supporting local empowerment initiatives
+Environmentally conscious production methods
 
-## Notes
+Contact Us
+For orders, partnerships, or inquiries:
+Email: blushpetalpads@gmail.com
+Phone: 0661458624
+Location: Gauteng, South Africa
 
-- Insert your images in `src/components/BlushPetalsPage.jsx` where indicated.
-- TailwindCSS is included but not fully configured here. You can add the Tailwind config and postcss if needed.
 
-## Deploy
 
-You can deploy this to GitHub Pages, Netlify, or any static hosting service.
+
+
